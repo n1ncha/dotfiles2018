@@ -1,0 +1,2599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LEAD",
+				"LEAD_DISTRIBUTION_METHOD_ASSIGNED\tstatement"
+			],
+			[
+				"get_Ne",
+				"get_next_sales_person_rr\tfunction"
+			],
+			[
+				"auto",
+				"auto_assign_sales_person"
+			],
+			[
+				"as",
+				"assertEqual\tfunction"
+			],
+			[
+				"sales",
+				"sales_person_1\tstatement"
+			],
+			[
+				"ClientF",
+				"ClientFromCampaignFactory\tclass"
+			],
+			[
+				"sale",
+				"sales_team\tstatement"
+			],
+			[
+				"last",
+				"last_sales_person_assigned\tstatement"
+			],
+			[
+				"org",
+				"organization\tstatement"
+			],
+			[
+				"fore",
+				"ForeignKey"
+			],
+			[
+				"lead",
+				"lead_distribution_method\tstatement"
+			],
+			[
+				"payou",
+				"payout_account_login\tstatement"
+			],
+			[
+				"payout",
+				"payout_account\tparam"
+			],
+			[
+				"Rea",
+				"REALITY_TYPE_LIVE\tstatement"
+			],
+			[
+				"change",
+				"change_account_payout_account"
+			],
+			[
+				"envi",
+				"environment_account"
+			],
+			[
+				"TradingProdu",
+				"TradingProductAccountRegistry\tclass"
+			],
+			[
+				"tart",
+				"target_currency\tparam"
+			],
+			[
+				"targ",
+				"target_currency"
+			],
+			[
+				"Curr",
+				"CurrencyProfit"
+			],
+			[
+				"_sym",
+				"_symbol_info\tstatement"
+			],
+			[
+				"profi",
+				"profit_conversions\tfunction"
+			],
+			[
+				"targe",
+				"target_currency\tparam"
+			],
+			[
+				"tar",
+				"target_currency\tparam"
+			],
+			[
+				"profit",
+				"profit_ccy\tstatement"
+			],
+			[
+				"profit_con",
+				"profit_conversion_symbol\tstatement"
+			],
+			[
+				"symb",
+				"symbol_info\tfunction"
+			],
+			[
+				"symbol",
+				"symbol_info\tfunction"
+			],
+			[
+				"Platform",
+				"PlatformException\tclass"
+			],
+			[
+				"new",
+				"new_group\tstatement"
+			],
+			[
+				"all",
+				"all_actions\tstatement"
+			],
+			[
+				"mark",
+				"markup_points"
+			],
+			[
+				"env",
+				"environment_group_id"
+			],
+			[
+				"get",
+				"getattr\tfunction"
+			],
+			[
+				"Org",
+				"OrgFilterRelatedField\tclass"
+			],
+			[
+				"Mod",
+				"SerializerMethodField"
+			],
+			[
+				"OrgFil",
+				"OrgFilterRelatedFieldMixin\tclass"
+			],
+			[
+				"Symbol",
+				"SymbolSetting\tclass"
+			],
+			[
+				"read",
+				"read_only"
+			],
+			[
+				"sync",
+				"sync_symbolgroups\tfunction"
+			],
+			[
+				"trad",
+				"trading_offering\tstatement"
+			],
+			[
+				"sorted",
+				"sorted_group_data\tstatement"
+			],
+			[
+				"sorte",
+				"sorted_group_data"
+			],
+			[
+				"parse",
+				"parse_group_symbol_setting\tfunction"
+			],
+			[
+				"group_sy",
+				"group_symbol_settings\tparam"
+			],
+			[
+				"commis",
+				"commission_conversion"
+			],
+			[
+				"desc",
+				"description_t\tstatement"
+			],
+			[
+				"commission",
+				"commission_amount\tparam"
+			],
+			[
+				"per",
+				"per_side\tstatement"
+			],
+			[
+				"actual",
+				"actual_amount\tstatement"
+			],
+			[
+				"ordered_comm",
+				"ordered_comm_data\tstatement"
+			],
+			[
+				"remote",
+				"remote_data\tstatement"
+			],
+			[
+				"bulk_",
+				"bulk_update_group_symbol_group_settings"
+			],
+			[
+				"tradig",
+				"trading_offering"
+			],
+			[
+				"trading",
+				"trading_offering"
+			],
+			[
+				"commi",
+				"commission_unit"
+			],
+			[
+				"CHARG",
+				"COMM_CHARGE_INSTANT"
+			],
+			[
+				"COMM",
+				"COMM_STANDARD"
+			],
+			[
+				"build",
+				"build_commission"
+			],
+			[
+				"global",
+				"global_contract_size"
+			],
+			[
+				"leas",
+				"at_least_one\tstatement"
+			],
+			[
+				"_remo",
+				"_remote_sg_update"
+			],
+			[
+				"_remote_sym",
+				"_remote_symbol_group_updates\tstatement"
+			],
+			[
+				"Fore",
+				"ForeignKey\tclass"
+			],
+			[
+				"SYMB",
+				"SYMBOL_GROUP_COMMISSION_UNITS\tstatement"
+			],
+			[
+				"comm",
+				"commision_units\tstatement"
+			],
+			[
+				"SYM",
+				"SYMBOL_GROUP_COMMISSION_UNITS\tstatement"
+			],
+			[
+				"commision",
+				"commission_points"
+			],
+			[
+				"SY",
+				"SYMBOL_GROUP_MARKUP_UNITS\tstatement"
+			],
+			[
+				"close_tim",
+				"close_time_sql"
+			],
+			[
+				"repor",
+				"reporting_views\tmodule"
+			],
+			[
+				"is",
+				"issubclass\tfunction"
+			],
+			[
+				"report",
+				"report_class\tstatement"
+			],
+			[
+				"repo",
+				"Report\tclass"
+			],
+			[
+				"Trading",
+				"TradingReportView\tclass"
+			],
+			[
+				"start",
+				"start_time\tparam"
+			],
+			[
+				"dal",
+				"deal_actions"
+			],
+			[
+				"POsi",
+				"PositionID"
+			],
+			[
+				"open",
+				"open_time"
+			],
+			[
+				"Vol",
+				"Volume"
+			],
+			[
+				"volume",
+				"volume_closed"
+			],
+			[
+				"volu",
+				"volume_opened"
+			],
+			[
+				"volum",
+				"volume_closed"
+			],
+			[
+				"Volume",
+				"VolumeClosed"
+			],
+			[
+				"end",
+				"end_time\tparam"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"day",
+				"day_before_first_day\tstatement"
+			],
+			[
+				"date",
+				"datetime\tmodule"
+			],
+			[
+				"Tradin",
+				"TradingPerformanceReport\tclass"
+			],
+			[
+				"group",
+				"group_by"
+			],
+			[
+				"group_by",
+				"group_by_keys\tstatement"
+			],
+			[
+				"nex",
+				"next_key\tstatement"
+			],
+			[
+				"build_key",
+				"build_key_fields_column"
+			],
+			[
+				"case",
+				"cases_sql\tfunction"
+			],
+			[
+				"DEAL",
+				"DEAL_REASONS"
+			],
+			[
+				"oder",
+				"order_by_sql\tstatement"
+			],
+			[
+				"Pos",
+				"Position"
+			],
+			[
+				"Position",
+				"PositionID"
+			],
+			[
+				"Po",
+				"PositionID"
+			],
+			[
+				"PO",
+				"PositionID"
+			],
+			[
+				"tiem",
+				"time_frame\tfunction"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"time",
+				"time_where"
+			],
+			[
+				"days",
+				"days_where"
+			],
+			[
+				"where",
+				"where_sql\tstatement"
+			],
+			[
+				"star",
+				"start_time\tstatement"
+			],
+			[
+				"sta",
+				"start_time\tparam"
+			],
+			[
+				"query",
+				"query_params"
+			],
+			[
+				"get_re",
+				"get_message_organization\tfunction"
+			],
+			[
+				"or",
+				"organization_id\tparam"
+			],
+			[
+				"local",
+				"local_sql"
+			],
+			[
+				"platf",
+				"platform_sql\tstatement"
+			],
+			[
+				"_plat",
+				"_platforms_trading_summary_sql\tfunction"
+			],
+			[
+				"MT5",
+				"MT5Platform\tclass"
+			],
+			[
+				"url",
+				"urlpatterns\tstatement"
+			],
+			[
+				"cach",
+				"cache_key\tfunction"
+			],
+			[
+				"REST",
+				"REST_FRAMEWORK\tstatement"
+			],
+			[
+				"Sprea",
+				"SpreadDiffBalance"
+			],
+			[
+				"des",
+				"desired_markup\tstatement"
+			],
+			[
+				"symbo",
+				"symbol_name\tstatement"
+			],
+			[
+				"par",
+				"parse_symbol_path\tfunction"
+			],
+			[
+				"_cae",
+				"_clear_markups"
+			],
+			[
+				"_l",
+				"_clear_markups"
+			],
+			[
+				"sym",
+				"symbol_name\tparam"
+			],
+			[
+				"check",
+				"_check_unallocated_groups\tfunction"
+			],
+			[
+				"_get",
+				"_get_unallocated_groups\tfunction"
+			],
+			[
+				"MT",
+				"MT5Platform\tclass"
+			],
+			[
+				"mock",
+				"mock_mt5\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/scrocket/django_bm_engines/crm/models.py",
+			"settings":
+			{
+				"buffer_size": 31596,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"read_only": true
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  1.9.4:\n  \n    Fix:\n     - avoid line height shifting by displaying annotations (#518)\n  \n  \n  💛 Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  +------------------------------------------------+\n  |                                                |\n  |   Use the coupon code GITGUTTER for $10 off    |\n  |                                                |\n  +------------------------------------------------+\n  \n  🏅 ⭐ ES6 ⭐\n  \n  👉 ES6.io/friend/GITGUTTER\n  \n  🏅 ⭐ Sublime Text Book ⭐\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  \n  🏅 ⭐ React For Beginners ⭐\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  \n  \n  Join 15,000 other developers already learning with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n",
+			"settings":
+			{
+				"buffer_size": 876,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Searching 178 files for \"notification\"\n\n/home/scrocket/django_bm_engines/bm_engines/consumers.py:\n   11      if user.has_org_permission(org, 'executive'):\n   12          message.reply_channel.send({\"accept\": True})\n   13:         Group('organization-{}-notifications'.format(org.pk)).add(message.reply_channel)\n   14  \n\n/home/scrocket/django_bm_engines/bm_engines/routing.py:\n   22      # fall through to normal views.\n   23      # In routing.py\n   24:     route('websocket.connect', ws_connect, path=r\"^/api/notifications/\"),\n   25  ]\n   26  \n\n/home/scrocket/django_bm_engines/product/tasks.py:\n   20          ao_purchase.setup_offering()\n   21          created = True\n   22:         Group('organization-{}-notifications'.format(ao_purchase.organization.pk)).send(\n   23              {'text': json.dumps(AdditionalOfferingPurchaseSerializer(ao_purchase).data)}\n   24          )\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 905,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/home/scrocket/django_bm_engines/crm/tests/test_models.py",
+			"settings":
+			{
+				"buffer_size": 15569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"an",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"git",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"lint",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"dis lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disable lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"packac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"chan",
+				"Changelog"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"anac dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"isntal",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"color s",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ed proj",
+				"Project: Edit Project"
+			],
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Snippet: ip",
+				"Snippet: ipdbsettrace"
+			],
+			[
+				"extra",
+				"Extract Sublime Package: Extract open Package File"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: sear",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Serializer"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 574.0,
+		"history":
+		[
+			"flake8",
+			"yes",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/scrocket/django_bm_engines/crm/factories.py",
+		"/home/scrocket/django_bm_engines/crm/signals.py",
+		"/home/scrocket/django_bm_engines/product/serializers/trading.py",
+		"/home/scrocket/django_bm_engines/product/models/trading.py",
+		"/home/scrocket/django_bm_engines/api/executive/views.py",
+		"/home/scrocket/django_bm_engines/mt5_web_api/facade.py",
+		"/home/scrocket/django_bm_engines/product/models/dummies.py",
+		"/home/scrocket/django_bm_engines/product/tests/test_mt5.py",
+		"/home/scrocket/django_bm_engines/bm_engines/test_settings.py",
+		"/home/scrocket/django_bm_engines/product/models/base.py",
+		"/home/scrocket/django_bm_engines/reporting/report.py",
+		"/home/scrocket/django_bm_engines/accounting/models.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/django/db/models/query.py",
+		"/home/scrocket/django_bm_engines/crm/models.py",
+		"/home/scrocket/django_bm_engines/product/models/mt5.py",
+		"/home/scrocket/django_bm_engines/reporting/trading.py",
+		"/home/scrocket/django_bm_engines/product/base_admin.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/mt5-web-api/api_facade.py",
+		"/home/scrocket/django_bm_engines/api/executive/urls.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/serializers.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/utils/serializer_helpers.py",
+		"/home/scrocket/django_bm_engines/product/forex.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/django/core/cache/backends/base.py",
+		"/home/scrocket/django_bm_engines/reporting/rates.py",
+		"/home/scrocket/django_bm_engines/product/rates.py",
+		"/home/scrocket/django_bm_engines/product/mt5query.txt",
+		"/home/scrocket/django_bm_engines/brokermaster/setups.py",
+		"/home/scrocket/django_bm_engines/product/admin.py",
+		"/home/scrocket/django_bm_engines/accounting/base_admin.py",
+		"/home/scrocket/django_bm_engines/bm_engines/settings.py",
+		"/home/scrocket/django_bm_engines/product/models/client_accounting.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/serializers.py",
+		"/home/scrocket/django_bm_engines/mt5_web_api/api/packets.py",
+		"/home/scrocket/django_bm_engines/mt5_web_api/api/sock.py",
+		"/home/scrocket/django_bm_engines/product/models/platform.py",
+		"/home/scrocket/django_bm_engines/bm_engines/urls.py",
+		"/home/scrocket/django_bm_engines/.env",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework_json_api/relations.py",
+		"/home/scrocket/django_bm_engines/crm/serializers.py",
+		"/home/scrocket/django_bm_engines/bm_engines/viewsets.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0035_remove_symbolsetting_trading_offering.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/mixins.py",
+		"/home/scrocket/django_bm_engines/crm/mixins.py",
+		"/home/scrocket/django_bm_engines/product/serializers/base.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework_json_api/renderers.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework_json_api/utils.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi/rest_framework_json_api/utils.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi/rest_framework_json_api/renderers.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/silk/views/profile_detail.py",
+		"/home/scrocket/django_bm_engines/product/tests/factories.py",
+		"/home/scrocket/django_bm_engines/product/tests/test_trading.py",
+		"/home/scrocket/django_bm_engines/product/tests/test_models.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/mt5-web-api/mt5_web_api/facade.py",
+		"/home/scrocket/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/collections/__init__.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0031_auto_20180905_2207.py",
+		"/home/scrocket/django_bm_engines/product/kick.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/fields.py",
+		"/home/scrocket/django_bm_engines/accounting/serializers.py",
+		"/home/scrocket/django_bm_engines/api/executive/serializers.py",
+		"/home/scrocket/django_bm_engines/product/models/trading_accounting.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi/rest_framework_json_api/relations.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0031_symbolgroups.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0032_symbolgroup_trading_offering.py",
+		"/home/scrocket/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/scrocket/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/scrocket/django_bm_engines/product/migrations/0031_symbolgroup_squashed_0034_auto_20180904_2142.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0032_auto_20180904_2133.py",
+		"/home/scrocket/django_bm_engines/product/migrations/0031_auto_20180904_2128.py",
+		"/home/scrocket/django_bm_engines/crm/permissions.py",
+		"/home/scrocket/django_bm_engines/api/my_configuration/views.py",
+		"/home/scrocket/django_bm_engines/crm/views.py",
+		"/home/scrocket/django_bm_engines/api/my_configuration/serializers.py",
+		"/home/scrocket/django_bm_engines/brokermaster/models.py",
+		"/home/scrocket/django_bm_engines/product/swaps.py",
+		"/home/scrocket/django_bm_engines/product/models/tri_party_accounting.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/permissions.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/views.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/urls.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/tests/test_views.py",
+		"/home/scrocket/django_bm_engines/product/models/payment.py",
+		"/home/scrocket/django_bm_engines/reporting/sql/swaps.sql",
+		"/home/scrocket/django_bm_engines/reporting/sql/ClientTradingPerformanceReport.sql",
+		"/home/scrocket/django_bm_engines/api/reporting/views.py",
+		"/home/scrocket/django_bm_engines/crm/utils.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/reporting_views.py",
+		"/home/scrocket/django_bm_engines/api/crm/views.py",
+		"/home/scrocket/django_bm_engines/reporting/views.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/views.py",
+		"/home/scrocket/django_bm_engines/bm_engines/views.py",
+		"/home/scrocket/django_bm_engines/api/reporting/urls.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework/permissions.py",
+		"/home/scrocket/django_bm_engines/api/cabinet/test.py",
+		"/home/scrocket/django_bm_engines/reporting/trading_performance.py",
+		"/home/scrocket/django_bm_engines/api/public/tests/test_views.py",
+		"/home/scrocket/django_bm_engines/reporting/tests.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/pandas/core/indexes/period.py",
+		"/home/scrocket/django_bm_engines/reporting/sql/open_and_closed_positions.sql",
+		"/home/scrocket/django_bm_engines/reporting/sql/position_open_close.sql",
+		"/home/scrocket/django_bm_engines/reporting/base_admin.py",
+		"/home/scrocket/django_bm_engines/bm_engines/tests/integration/test_registration.py",
+		"/home/scrocket/django_bm_engines/api/crm/tests/test_serializers.py",
+		"/home/scrocket/django_bm_engines/accounting/tests/test_models.py",
+		"/home/scrocket/django_bm_engines/bm_engines/tests/integration/testcases.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/pbr/tests/test_integration.py",
+		"/home/scrocket/django_bm_engines/reporting/positions-deals-orders.sql",
+		"/home/scrocket/django_bm_engines/reporting/timeutils.py",
+		"/home/scrocket/django_bm_engines/api/crm/urls.py",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/braintree/credit_card_verification_gateway.py",
+		"/home/scrocket/triplebypass/ilq/api/data.py",
+		"/home/scrocket/django_bm_engines/product/mt5query.py",
+		"/home/scrocket/django_bm_engines/reporting/data/mt5_report.py",
+		"/home/scrocket/django_bm_engines/reporting/data/query.py",
+		"/home/scrocket/django_bm_engines/reporting/warehouse.py",
+		"/home/scrocket/django_bm_engines/reporting/apps.py",
+		"/home/scrocket/django_bm_engines/reporting/sql/mt5_accounts.reporting.sql",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi/docs/getting-started.md",
+		"/home/scrocket/triplebypass/cust.py",
+		"/home/scrocket/triplebypass/internal/views.py",
+		"/home/scrocket/salt/pillar/mt5/dev.sls",
+		"/home/scrocket/salt/stack/bm/database.sls",
+		"/home/scrocket/django_bm_engines/product/management/_swaps.py",
+		"/home/scrocket/salt/stack/fairmkts/fm-website-backend.sls",
+		"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/config-3.5m-x86_64-linux-gnu/Makefile",
+		"/home/scrocket/django_bm_engines/report/data/mt5_report.py",
+		"/home/scrocket/django_bm_engines/report/sql/mt5_accounts.reporting.sql",
+		"/home/scrocket/django_bm_engines/api/report/views.py",
+		"/home/scrocket/django_bm_engines/api/report/urls.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"",
+			"*serializers*",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/django/",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-*admin.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/django/contrib/admin",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py",
+			"/home/scrocket/django_bm_engines,*.py,*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/mt5_web_api/",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/mt5_web_api/api",
+			"/home/scrocket/django_bm_engines,*.py,*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py",
+			"*models.py,/home/scrocket/django_bm_engines/,*/models/*.py",
+			"*models.py,/home/scrocket/django_bm_engines/",
+			"*models.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*,-rates.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,test*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/celery, *.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/djoser, *.py",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework, *.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi/rest_framework_json_api",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework_json_api",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework, *.py",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/django",
+			"/home/scrocket/django_bm_engines,*.py,-*/migrations/*",
+			"/home/scrocket/django_bm_engines,,*.py",
+			"/home/scrocket/django_bm_engines",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/faker",
+			"/home/scrocket/django_bm_engines",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/faker",
+			"/home/scrocket/django_bm_engines",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/lib/python3.5/site-packages/rest_framework",
+			"/home/scrocket/.virtualenvs/3django_bm_engines/src/djangorestframework-jsonapi",
+			"/home/scrocket/django_bm_engines,/home/scrocket/.virtualenvs/3django_bm_engines",
+			"/home/scrocket/django_bm_engines",
+			"/home/scrocket/django_bm_engines/product/tests",
+			"<open folders>",
+			"/home/scrocket/django_bm_engines",
+			"/home/scrocket/django_bm_engines/crm"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notification",
+			"ipdf",
+			"ipd",
+			"atomic",
+			"\\",
+			"employeefactory",
+			"atomic",
+			"salesman",
+			"sales_people",
+			"SalesPeople",
+			"LEAD_DISTRIBUTION_CHOICES",
+			"sales_team",
+			"LEAD_DISTRIBUTION_CHOICES",
+			"robin",
+			"allocation",
+			"execut",
+			"TradingOffering",
+			"_pct",
+			"remote_data",
+			"get_code",
+			"get_or_create_account",
+			"account_foreign_keys",
+			"get_code",
+			"on_account_create",
+			"ON_AC",
+			"on_account_create",
+			"code",
+			"account_specs",
+			"account_foreign_keys",
+			"OrganizationPayoutAccount",
+			"get_account_group_assignment",
+			"OrganizationRiskAccount",
+			"conversion_info",
+			"profit_conversions",
+			"payout",
+			"clear_remote_accounts_data",
+			"remote_data",
+			"payer",
+			"payee",
+			"payer",
+			"remote_balance",
+			"queryset",
+			".trading_environment",
+			"select_related",
+			"DEFAULT_TIMEOUT",
+			"get_symbols",
+			"symbol_groups",
+			"_get_symbols",
+			"remote_balance",
+			"CURRENCIES_BY_SYMBOL",
+			"CFD_UNDERLYING_CCY",
+			"query_db",
+			"_get_next_group_index",
+			"_check_unallocated_groups",
+			"fairmark",
+			"broker_payouts_group_id",
+			"broker",
+			"broeker",
+			"broker",
+			"commission_conversion",
+			"fair",
+			"remote_balance",
+			"remote_",
+			"per_ounce",
+			"0.01",
+			"validate_symbol_name",
+			"does not recog",
+			"metals",
+			"create_group",
+			"metal",
+			"get_group",
+			"local_sss",
+			"update_group",
+			"create_group",
+			".create_group",
+			"perform_create_group",
+			"update_group",
+			".read",
+			"parse_header",
+			"packet_num",
+			"received packet",
+			"debug",
+			"returning",
+			"return",
+			"returning",
+			"debug",
+			"READ_SLEEP",
+			"sleep",
+			"sync_group_symbol_list",
+			"debug",
+			"account_foreign_keys",
+			"bulk_symbol_group_settings_update",
+			"logger",
+			"silk",
+			"rebate",
+			"bulk_update_group_symbol_settings",
+			"do_sync",
+			"REMOTE_DATA_PUSH_KEYS",
+			"bulk_symbol_settings_update",
+			"do_sync",
+			"ipd",
+			"OrgFilterRelatedField",
+			"SerializerMethodResourceRelatedField",
+			"queryset",
+			"parent",
+			".symbol_settings",
+			"symbol_settings",
+			"source='*'",
+			"SymbolSettingSerializer",
+			"property",
+			"remote_update",
+			"state_match",
+			"bulk_symbol_group_settings_update",
+			"_validate_symbol_setting",
+			"bulk",
+			"do_sync",
+			"ordered_group_data",
+			"perform.*setting",
+			"perform*setting",
+			"update_group_symbol_setting",
+			"sync_sym",
+			"rebate_conv",
+			"do_sync",
+			"build_rebates",
+			"feed_config\n",
+			"cf_add_points",
+			"markup_points",
+			"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sales_person",
+			"conversion_info",
+			"LOCAL_TRUTH_KEYS",
+			"commission_amount",
+			"_remote_updates",
+			"\\1",
+			"\\1\\n",
+			"sql_params",
+			"build_key_values_column",
+			",\\n",
+			"(\\2,\"\\1\")",
+			"(\\2,\"\\3\")",
+			"\\1,\\2,\\3\\n",
+			"build_trading_sql",
+			"str",
+			"",
+			"start_time",
+			"endTime",
+			"end_time",
+			"sync_group_symbol_list",
+			"logger.debug",
+			"log.debug",
+			"symbol_name",
+			"tup",
+			"CabinetClientExternalBankAccountSerializer",
+			"product_serializers",
+			"JOIN \"brokermate\".\"",
+			"broker",
+			"fm",
+			"COMMON_DB_CONF",
+			"'symbol_name'",
+			"works",
+			"update_group_symbol_setting",
+			"ss",
+			"sss",
+			"ss",
+			"symbol_settings",
+			"SymbolSetting",
+			"symbolsettings",
+			"test_bm",
+			"TimeRateGetter",
+			"mock_get_rate",
+			"self",
+			"MT5",
+			"deltas",
+			"amount",
+			"conversion_rates",
+			"crm_views",
+			"accounting_type",
+			"grouping",
+			"get_foreign_keys",
+			"'FXTHREE'",
+			"'FXTWO'",
+			"'FXONE'",
+			"'THREE'",
+			"'TWO'",
+			"'ONE'",
+			"default_organization_account_configs",
+			"default_organization_account_configs()",
+			"default_organization_accounts",
+			"get_group",
+			"str",
+			"MT5ValidationException",
+			"get_group_symbol_group_settings",
+			"get_group_symbol_settings",
+			"validate_create_group_params",
+			"validate_delete_account_params",
+			"validate_create_account_params",
+			"validate_post_balance_entry_params",
+			"returns",
+			"perform",
+			"_db_connection",
+			"\"",
+			"symbol_group",
+			"MT5_RECV_BUFFER_SIZE",
+			"web_api_get",
+			"web_api",
+			"MT5",
+			"CC_UNSETTLED",
+			"RISK_TYPE_CHOICES",
+			"ClientAccountRegistry",
+			"BrokerClientAccountRegistry",
+			"ClientAccountRegistry",
+			"ClientEvent",
+			"BROKERMATE_FEES_PAYABLE",
+			"client_accounting",
+			",\\n",
+			"\\n",
+			"get_broker_account_deltas",
+			"TRUST",
+			"markup_points",
+			"BrokerClientAccountRegistry",
+			"get_broker_account_deltas",
+			"BrokerClientEvent",
+			"broker_client_accounting",
+			"Transaction.objects.create(",
+			"markup",
+			"comments",
+			"ClientFundsTransfer",
+			"build_transactions",
+			"event",
+			"Event",
+			"EventType",
+			"AccountingEventType",
+			"AccountingEventRecorder",
+			"AccountingEventBuilderModel",
+			"AccountingEventBuilding",
+			"AccountingEventBuilder",
+			"BrokerDailyFee",
+			"Transaction.objects.create",
+			"Entry.objects.create",
+			"OrganizationCreditCardPayment",
+			"BrokerCreditCardPayment",
+			"BrokerCreditCardDeposit",
+			"",
+			"broker_accounting",
+			"BrokerWithdrawalRequest",
+			"BrokerWithdrawal",
+			"BrokerAccountingEvent",
+			"BrokerTransaction",
+			"get_client_custodian_entity",
+			"fairmarkets_transaction",
+			"ClientAccountRegistry",
+			"get_broker_account_deltas",
+			"_brokermate",
+			"brokermate_transaction",
+			"broker_transaction",
+			"build_broker_transaction"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/scrocket/django_bm_engines/crm/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22052,
+								22052
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9269.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 905,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										253,
+										265
+									],
+									[
+										509,
+										521
+									],
+									[
+										708,
+										720
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/scrocket/django_bm_engines/crm/tests/test_models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14532,
+								14532
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3509.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 1023.0
+	},
+	"output.find_results":
+	{
+		"height": 103.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "django_bm_engines.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test crm",
+				"django_bm_engines/crm/tests/test_models.py"
+			],
+			[
+				"trading",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"mt5.py",
+				"django_bm_engines/product/models/mt5.py"
+			],
+			[
+				"test mt5",
+				"django_bm_engines/product/tests/test_mt5.py"
+			],
+			[
+				"dumm",
+				"django_bm_engines/product/models/dummies.py"
+			],
+			[
+				"test sett",
+				"django_bm_engines/bm_engines/test_settings.py"
+			],
+			[
+				"base.py",
+				"django_bm_engines/product/models/base.py"
+			],
+			[
+				"acc mod",
+				"django_bm_engines/accounting/models.py"
+			],
+			[
+				"reporting",
+				"django_bm_engines/reporting/report.py"
+			],
+			[
+				"prod base ad",
+				"django_bm_engines/product/base_admin.py"
+			],
+			[
+				"acc model",
+				"django_bm_engines/accounting/models.py"
+			],
+			[
+				"mt5 web api",
+				"3django_bm_engines/src/mt5-web-api/api_facade.py"
+			],
+			[
+				"trading.py",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"api exec url",
+				"django_bm_engines/api/executive/urls.py"
+			],
+			[
+				"api exec ",
+				"django_bm_engines/api/executive/urls.py"
+			],
+			[
+				"rates",
+				"django_bm_engines/reporting/rates.py"
+			],
+			[
+				"report rates",
+				"django_bm_engines/reporting/rates.py"
+			],
+			[
+				"rep rates",
+				"django_bm_engines/product/rates.py"
+			],
+			[
+				"mt5",
+				"django_bm_engines/product/mt5query.txt"
+			],
+			[
+				"setups",
+				"django_bm_engines/brokermaster/setups.py"
+			],
+			[
+				"prod base",
+				"django_bm_engines/product/base_admin.py"
+			],
+			[
+				"base_ad",
+				"django_bm_engines/accounting/base_admin.py"
+			],
+			[
+				"prod admin.py",
+				"django_bm_engines/product/admin.py"
+			],
+			[
+				"cli accou",
+				"django_bm_engines/product/models/client_accounting.py"
+			],
+			[
+				"setting",
+				"django_bm_engines/bm_engines/settings.py"
+			],
+			[
+				"api exec view",
+				"django_bm_engines/api/executive/views.py"
+			],
+			[
+				"urls",
+				"django_bm_engines/bm_engines/urls.py"
+			],
+			[
+				".env",
+				"django_bm_engines/.env"
+			],
+			[
+				"test set",
+				"django_bm_engines/bm_engines/test_settings.py"
+			],
+			[
+				"prod base admin",
+				"django_bm_engines/product/base_admin.py"
+			],
+			[
+				"prod seri trading",
+				"django_bm_engines/product/serializers/trading.py"
+			],
+			[
+				"pro ser trad",
+				"django_bm_engines/product/migrations/0035_remove_symbolsetting_trading_offering.py"
+			],
+			[
+				"crm mixi",
+				"django_bm_engines/crm/mixins.py"
+			],
+			[
+				"json api render",
+				"3django_bm_engines/lib/python3.5/site-packages/rest_framework_json_api/renderers.py"
+			],
+			[
+				"rest fram json api utils",
+				"3django_bm_engines/src/djangorestframework-jsonapi/rest_framework_json_api/utils.py"
+			],
+			[
+				"api prod view",
+				"3django_bm_engines/lib/python3.5/site-packages/silk/views/profile_detail.py"
+			],
+			[
+				"forex",
+				"django_bm_engines/product/forex.py"
+			],
+			[
+				"p mo trading.",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"mo tradi",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"test trading",
+				"django_bm_engines/product/tests/test_trading.py"
+			],
+			[
+				"dummies",
+				"django_bm_engines/product/models/dummies.py"
+			],
+			[
+				"pro test mod",
+				"django_bm_engines/product/tests/test_models.py"
+			],
+			[
+				"facade.py",
+				"django_bm_engines/mt5_web_api/facade.py"
+			],
+			[
+				"prod mod trading",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"prod factories",
+				"django_bm_engines/product/tests/factories.py"
+			],
+			[
+				"prod migrations 0032",
+				"django_bm_engines/product/migrations/0032_symbolgroup_trading_offering.py"
+			],
+			[
+				"acc mode",
+				"django_bm_engines/accounting/models.py"
+			],
+			[
+				"models trading",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"product serializers trading",
+				"django_bm_engines/product/serializers/trading.py"
+			],
+			[
+				"prod mod tradin",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"prod mig 0031",
+				"django_bm_engines/product/migrations/0031_symbolgroups.py"
+			],
+			[
+				"0032",
+				"django_bm_engines/product/migrations/0032_auto_20180904_2133.py"
+			],
+			[
+				"prod mod trading.",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"crm permission",
+				"django_bm_engines/crm/permissions.py"
+			],
+			[
+				"prod mod trading.py",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"exec views",
+				"django_bm_engines/api/executive/views.py"
+			],
+			[
+				"api views",
+				"django_bm_engines/api/my_configuration/views.py"
+			],
+			[
+				"repor trading",
+				"django_bm_engines/reporting/trading.py"
+			],
+			[
+				"prod mod tradi",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"report trading",
+				"django_bm_engines/reporting/trading.py"
+			],
+			[
+				"prod trading",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"trading.y",
+				"django_bm_engines/reporting/trading.py"
+			],
+			[
+				"prod mod trad",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"trading.",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"cab url",
+				"django_bm_engines/api/cabinet/urls.py"
+			],
+			[
+				"cab perm",
+				"django_bm_engines/api/cabinet/permissions.py"
+			],
+			[
+				"cab test view",
+				"django_bm_engines/api/cabinet/tests/test_views.py"
+			],
+			[
+				"settins",
+				"django_bm_engines/bm_engines/settings.py"
+			],
+			[
+				"api permis",
+				"django_bm_engines/api/cabinet/permissions.py"
+			],
+			[
+				"api cab perm",
+				"django_bm_engines/api/cabinet/permissions.py"
+			],
+			[
+				"api cab view",
+				"django_bm_engines/api/cabinet/views.py"
+			],
+			[
+				"api cab permi",
+				"django_bm_engines/api/cabinet/permissions.py"
+			],
+			[
+				"api crm view",
+				"django_bm_engines/api/crm/views.py"
+			],
+			[
+				"crm mod",
+				"django_bm_engines/crm/models.py"
+			],
+			[
+				"report report",
+				"django_bm_engines/reporting/report.py"
+			],
+			[
+				"report view",
+				"django_bm_engines/reporting/views.py"
+			],
+			[
+				"crm permis",
+				"django_bm_engines/crm/permissions.py"
+			],
+			[
+				"rest framework permissions.py",
+				"3django_bm_engines/lib/python3.5/site-packages/rest_framework/permissions.py"
+			],
+			[
+				"crm modl",
+				"django_bm_engines/crm/models.py"
+			],
+			[
+				"crm permi",
+				"django_bm_engines/crm/permissions.py"
+			],
+			[
+				"api report url",
+				"django_bm_engines/api/reporting/urls.py"
+			],
+			[
+				"api cabinet url",
+				"django_bm_engines/api/cabinet/urls.py"
+			],
+			[
+				"trading perf",
+				"django_bm_engines/reporting/trading_performance.py"
+			],
+			[
+				"reporting url",
+				"django_bm_engines/api/reporting/urls.py"
+			],
+			[
+				"reporting.py",
+				"django_bm_engines/reporting/trading.py"
+			],
+			[
+				"settings",
+				"django_bm_engines/bm_engines/settings.py"
+			],
+			[
+				"report.py",
+				"django_bm_engines/reporting/report.py"
+			],
+			[
+				"mt5 q",
+				"django_bm_engines/product/mt5query.txt"
+			],
+			[
+				"test_sett",
+				"django_bm_engines/bm_engines/test_settings.py"
+			],
+			[
+				"api repor vi",
+				"django_bm_engines/api/reporting/views.py"
+			],
+			[
+				"test view",
+				"django_bm_engines/api/public/tests/test_views.py"
+			],
+			[
+				"acc test test_mod",
+				"django_bm_engines/accounting/tests/test_models.py"
+			],
+			[
+				"api crm test ser",
+				"django_bm_engines/api/crm/tests/test_serializers.py"
+			],
+			[
+				"bm eng test inte test reg",
+				"django_bm_engines/bm_engines/tests/integration/test_registration.py"
+			],
+			[
+				"bm_engi test integ",
+				"3django_bm_engines/lib/python3.5/site-packages/pbr/tests/test_integration.py"
+			],
+			[
+				".sql",
+				"django_bm_engines/reporting/positions-deals-orders.sql"
+			],
+			[
+				"trading produ",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"timeut",
+				"django_bm_engines/reporting/timeutils.py"
+			],
+			[
+				"mt5query",
+				"django_bm_engines/product/mt5query.txt"
+			],
+			[
+				"api reporting view",
+				"django_bm_engines/api/reporting/views.py"
+			],
+			[
+				"api trading view",
+				"3django_bm_engines/lib/python3.5/site-packages/braintree/credit_card_verification_gateway.py"
+			],
+			[
+				"api crm url",
+				"django_bm_engines/api/crm/urls.py"
+			],
+			[
+				"reporting urls",
+				"django_bm_engines/api/reporting/urls.py"
+			],
+			[
+				"url",
+				"django_bm_engines/bm_engines/urls.py"
+			],
+			[
+				"api repor view",
+				"django_bm_engines/api/reporting/views.py"
+			],
+			[
+				"mt5_",
+				"django_bm_engines/reporting/data/mt5_report.py"
+			],
+			[
+				"swaps",
+				"django_bm_engines/product/swaps.py"
+			],
+			[
+				"reporting view",
+				"django_bm_engines/reporting/views.py"
+			],
+			[
+				"pro mod mt5",
+				"django_bm_engines/product/models/mt5.py"
+			],
+			[
+				"product mt5qu",
+				"django_bm_engines/product/mt5query.py"
+			],
+			[
+				"repo tradin",
+				"django_bm_engines/reporting/trading.py"
+			],
+			[
+				"crm view",
+				"django_bm_engines/crm/views.py"
+			],
+			[
+				"api repor url",
+				"django_bm_engines/api/reporting/urls.py"
+			],
+			[
+				"ware",
+				"django_bm_engines/reporting/warehouse.py"
+			],
+			[
+				"api report",
+				"django_bm_engines/api/reporting/views.py"
+			],
+			[
+				"prod base.py",
+				"django_bm_engines/product/models/base.py"
+			],
+			[
+				"api reporting views",
+				"django_bm_engines/api/reporting/views.py"
+			],
+			[
+				"crm api view",
+				"django_bm_engines/api/crm/views.py"
+			],
+			[
+				"trad",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"prod mode base",
+				"django_bm_engines/product/models/base.py"
+			],
+			[
+				"mt5que",
+				"django_bm_engines/product/mt5query.py"
+			],
+			[
+				"wareh",
+				"django_bm_engines/reporting/warehouse.py"
+			],
+			[
+				"warehou",
+				"django_bm_engines/reporting/warehouse.py"
+			],
+			[
+				"settin",
+				"django_bm_engines/bm_engines/settings.py"
+			],
+			[
+				"setgings",
+				"3django_bm_engines/src/djangorestframework-jsonapi/docs/getting-started.md"
+			],
+			[
+				"Trading.py",
+				"django_bm_engines/product/models/trading.py"
+			],
+			[
+				"mt5 sql",
+				"django_bm_engines/reporting/sql/mt5_accounts.reporting.sql"
+			],
+			[
+				"prod mod base",
+				"django_bm_engines/product/models/base.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mt5user",
+				"MT5UsersIntegrationTestCase"
+			],
+			[
+				"sym group seria",
+				"SymbolGroupSerializer"
+			],
+			[
+				"tes sync symbol",
+				"test_sync_symbolgroups"
+			],
+			[
+				"test symbol group hash",
+				"test_symbol_group_hash"
+			],
+			[
+				"group_symbol_group",
+				"test_group_symbol_groups"
+			],
+			[
+				"update_Group_symbol_group",
+				"validate_update_group_symbol_group_settings_params"
+			],
+			[
+				"endofda",
+				"EndOfDay"
+			],
+			[
+				"trading acc swa",
+				"client_trading_account_swap"
+			],
+			[
+				"eod",
+				"EndOfDay"
+			],
+			[
+				"swap",
+				"swap"
+			],
+			[
+				"endofday",
+				"EndOfDay"
+			],
+			[
+				"env acc",
+				"EnvironmentAccount"
+			],
+			[
+				"client swap",
+				"ClientTradingAccountSwap"
+			],
+			[
+				"cli trad",
+				"ClientTradingAccount"
+			],
+			[
+				"prod offer",
+				"ProductOffering"
+			],
+			[
+				"client",
+				"Client"
+			],
+			[
+				"environment acc",
+				"EnvironmentAccount"
+			],
+			[
+				"",
+				"$(MODOBJS) Programs/python.o"
+			],
+			[
+				"tradingenv",
+				"TradingEnvironment"
+			],
+			[
+				"camp seria",
+				"CampaignSerializer"
+			],
+			[
+				"org registr",
+				"OrganizationRegistrationView"
+			],
+			[
+				"orgregview",
+				"OrganizationRegistrationView"
+			],
+			[
+				"swap tas",
+				"client_trading_account_swap"
+			],
+			[
+				"cli docu",
+				"ClientDocument"
+			],
+			[
+				"CliDocFac",
+				"ClientDocumentFactory"
+			],
+			[
+				"test client creat",
+				"test_client_create"
+			],
+			[
+				"post_demo",
+				"post_demo_delta"
+			],
+			[
+				"req template",
+				"ClientProductDocumentRequirementTemplate"
+			],
+			[
+				"symbol setting",
+				"SymbolSetting"
+			],
+			[
+				"sync syym",
+				"sync_symbolsettings"
+			],
+			[
+				"basedocadmin",
+				"BaseDocumentAdmin"
+			],
+			[
+				"swap calc",
+				"SwapsCalculationSerializer"
+			],
+			[
+				"exec with req",
+				"ExecutiveBrokerWithdrawalRequestViewSet"
+			],
+			[
+				"supptick",
+				"SupportTicket"
+			],
+			[
+				"brokerwith",
+				"BrokerWithdrawalRequest"
+			],
+			[
+				"listmixin",
+				"ListModelMixin"
+			],
+			[
+				"tradingaccountswa",
+				"ClientTradingAccountSwap"
+			],
+			[
+				"clicred",
+				"ClientCreditCardDeposit"
+			],
+			[
+				"transfer",
+				"Transfer"
+			],
+			[
+				"symbolsetseria",
+				"SymbolSettingSerializer"
+			],
+			[
+				"client trading swaps",
+				"client_trading_account_swaps"
+			],
+			[
+				"client swaps",
+				"client_trading_account_swaps"
+			],
+			[
+				"swaps",
+				"ProSwapsTestCase"
+			],
+			[
+				"test swap",
+				"test_swap_get_rate"
+			],
+			[
+				"swapcal",
+				"ExecutiveSwapCalculationView"
+			],
+			[
+				"riska",
+				"OrganizationRiskAccount"
+			],
+			[
+				"calculateswap",
+				"calculateSwapCharge"
+			],
+			[
+				"end of day",
+				"end_of_day"
+			],
+			[
+				"wirein",
+				"ExecutiveWireInstructionsView"
+			],
+			[
+				"wireins",
+				"ExecutiveWireInstructionsView"
+			],
+			[
+				"external",
+				"ExternalBankAccount"
+			],
+			[
+				"brokerclientc",
+				"BrokerClientCredit"
+			],
+			[
+				"client credit",
+				"BrokerClientCredit"
+			],
+			[
+				"poly seri",
+				"PolymorphicPrimaryUserFilterRelatedField"
+			],
+			[
+				"polyseri",
+				"PolyListSerializer"
+			],
+			[
+				"calc swap",
+				"calculate_client_swap"
+			],
+			[
+				"create_for",
+				"create_for"
+			],
+			[
+				"client transfer",
+				"ClientFundsTransfer"
+			],
+			[
+				"trading swaps",
+				"client_trading_account_swaps"
+			],
+			[
+				"brokersetup",
+				"BrokerSetupTicket"
+			],
+			[
+				"check eod",
+				"check_eod"
+			],
+			[
+				"broker dail",
+				"BrokerDailyFee"
+			],
+			[
+				"brok da fe",
+				"BrokerDailyFee"
+			],
+			[
+				"test d f amoun",
+				"test_daily_fee_amounts"
+			],
+			[
+				"dailyfee",
+				"BrokerDailyFee"
+			],
+			[
+				"clitaswap",
+				"ClientTradingAccountSwap"
+			],
+			[
+				"event",
+				"Event"
+			],
+			[
+				"cli acc reg",
+				"ClientAccountRegistry"
+			],
+			[
+				"get fairma",
+				"get_fairmarkets_entity"
+			],
+			[
+				"remote_in",
+				"remote_interaction"
+			],
+			[
+				"remote_oper",
+				"remote_receiveGroupMembers"
+			],
+			[
+				"servic",
+				"ServicePlan"
+			],
+			[
+				"servicepl",
+				"ServicePlan"
+			],
+			[
+				"test daily",
+				"test_daily_fee_amounts"
+			],
+			[
+				"clientswap",
+				"ClientTradingAccountSwap"
+			],
+			[
+				"daily",
+				"BrokerDailyFee"
+			],
+			[
+				"dailyfe",
+				"BrokerDailyFee"
+			],
+			[
+				"test_symbol_group",
+				"test_symbol_group_hash"
+			],
+			[
+				"trad prod acc re",
+				"TradingProductAccountRegistry"
+			],
+			[
+				"initialize",
+				"Initialize"
+			],
+			[
+				"sync symb",
+				"sync_symbolgroupsettings"
+			],
+			[
+				"trad plat",
+				"TradingPlatform"
+			],
+			[
+				"dummytrad",
+				"DummyTradingPlatform"
+			],
+			[
+				"brokerset",
+				"BrokerSetupTicket"
+			],
+			[
+				"initialcapu",
+				"InitialCapture"
+			],
+			[
+				"renamefield",
+				"RenameField"
+			],
+			[
+				"daily fee",
+				"BrokerDailyFee"
+			],
+			[
+				"brokerdepo",
+				"BrokerDeposit"
+			],
+			[
+				"postb",
+				"post_balance_entry"
+			],
+			[
+				"post_bala",
+				"post_balance_entry"
+			],
+			[
+				"serviceplan",
+				"ServicePlan"
+			],
+			[
+				"servicepal",
+				"ServicePlanSerializer"
+			],
+			[
+				"brokercliend",
+				"BrokerClientDebit"
+			],
+			[
+				"clientEvent",
+				"ClientEvent"
+			],
+			[
+				"brok fund t",
+				"BrokerFundsTransfer"
+			],
+			[
+				"test mod group ",
+				"test_modify_group_config"
+			],
+			[
+				"raisesvalid",
+				"RaisesValidationError"
+			],
+			[
+				"brokermatetrans",
+				"BrokermateTransaction"
+			],
+			[
+				"payout",
+				"Payout"
+			],
+			[
+				"validate_",
+				"validate_leverage"
+			],
+			[
+				"brokermatebank",
+				"BrokermateExternalBankAccount"
+			],
+			[
+				"support",
+				"SupportTicket"
+			],
+			[
+				"interest",
+				"InterestRates"
+			],
+			[
+				"campa",
+				"Campaign"
+			],
+			[
+				"test agreeme",
+				"test_agreement_submit"
+			],
+			[
+				"env doc",
+				"EnvironmentDocumentRequirement"
+			],
+			[
+				"meseri",
+				"MeSerializer"
+			],
+			[
+				"supporttick",
+				"SupportTicket"
+			],
+			[
+				"cli transfer",
+				"ClientTransfer"
+			],
+			[
+				"get_bala",
+				"get_balance"
+			],
+			[
+				"leads",
+				"LeadViewSet"
+			],
+			[
+				"employ",
+				"EmployeeFactory"
+			],
+			[
+				"salesteam",
+				"SalesTeam"
+			],
+			[
+				"client acc regis",
+				"ClientAccountRegistry"
+			],
+			[
+				"support tick mess ser",
+				"SupportTicketMessageSerializer"
+			],
+			[
+				"cli trading",
+				"ClientTradingAccount"
+			],
+			[
+				"servicepla",
+				"ServicePlan"
+			],
+			[
+				"cli trans",
+				"ClientTransaction"
+			],
+			[
+				"cli trans admin",
+				"ClientTransferAdmin"
+			],
+			[
+				"primary user",
+				"PrimaryUserFilterMixin"
+			],
+			[
+				"orgfilter",
+				"PolymorphicOrgFilterRelatedField"
+			],
+			[
+				"withdrawal",
+				"WithdrawalRequest"
+			],
+			[
+				"conta info ser",
+				"ContactInfoSerializer"
+			],
+			[
+				"organiz",
+				"Organization"
+			],
+			[
+				"meview",
+				"MeView"
+			],
+			[
+				"account",
+				"Account"
+			],
+			[
+				"cl trad acc",
+				"ClientTradingAccount"
+			],
+			[
+				"camp",
+				"Campaign"
+			]
+		],
+		"width": 689.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 110.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

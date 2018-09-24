@@ -1,0 +1,37 @@
+{
+	"animation_enabled": false,
+	"binary_file_patterns":
+	[
+		"*.prof",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_style": "blink",
+	"color_scheme": "Packages/Colorsublime - Themes/Solarized-dark.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ESLint",
+		"JSONLint",
+		"Python Flake8 Lint",
+		"PythonTest",
+		"Vintage"
+	],
+	"margin": 0,
+	"scroll_speed": 1.2,
+	"shift_tab_unindent": false,
+	"theme": "Adaptive.sublime-theme"
+}

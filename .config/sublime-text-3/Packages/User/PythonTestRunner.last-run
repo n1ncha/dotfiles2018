@@ -1,0 +1,3 @@
+{
+	"last_test_run": "nosetests  crm.tests.test_models:BasicAccountsLogicTestCase.test_get_balance"
+}
