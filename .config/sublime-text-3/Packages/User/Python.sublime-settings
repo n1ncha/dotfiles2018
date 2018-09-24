@@ -1,0 +1,13 @@
+{
+	"anaconda_linter_delay": 3,
+	"auto_formatting": true,
+	"extensions":
+	[
+		"tac"
+	],
+	"pep8_max_line_length": 100,
+	"rulers": [100],
+	"ensure_newline_at_eof_on_save": true,
+	"translate_tabs_to_spaces": false,
+	"auto_formatting_timeout":20,
+}

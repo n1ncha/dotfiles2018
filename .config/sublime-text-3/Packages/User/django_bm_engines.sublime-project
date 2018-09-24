@@ -1,0 +1,28 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/scrocket/.virtualenvs/3django_bm_engines/bin/python3\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/home/scrocket/django_bm_engines"
+		},
+		{
+			"path": "/home/scrocket/.virtualenvs/3django_bm_engines"
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "/home/scrocket/.virtualenvs/3django_bm_engines/bin/python3",
+		"python_test":
+		{
+			"command": "python ./manage.py test -v 2"
+		}
+	}
+}
